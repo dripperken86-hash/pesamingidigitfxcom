@@ -6,7 +6,7 @@ A self-hosted digit trading app built on the Deriv WebSocket API. Supports Match
 
 - Node.js 18.18 or later
 
-## Step 1: Register Your App ID
+## Step 1: pesamingikenfx 
 
 1. Log in to your Deriv account and go to the [API Token page](https://app.deriv.com/account/api-token) to create a token with the required scopes.
 2. Navigate to [App Registration](https://developers.deriv.com/dashboard/) and register a new application.
